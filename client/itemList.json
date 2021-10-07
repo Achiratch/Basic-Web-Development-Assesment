@@ -1,0 +1,34 @@
+{
+    "product": [
+        {
+            "name": "Moderna",
+            "brand": "Moderna",
+            "description": "94.1% 2 dose",
+            "price": "280"
+        },
+        {
+            "name": "Sinovac",
+            "brand": "Shinopharm",
+            "description": "49.6-50.7% 2-5 dose",
+            "price": "150"
+        },
+        {
+            "name": "AstraZeneca",
+            "brand": "AstraZeneca",
+            "description": "70.4-82.4 2 dose",
+            "price": "270"
+        },
+        {
+            "name": "Sinopharm",
+            "brand": "Shinopharm",
+            "description": "70.4-82.4 2 dose",
+            "price": "230"
+        },
+        {
+            "name": "Pfizer-BioNtech",
+            "brand": "Pfizer-BioNtech",
+            "description": "81.8-95% 2 dose",
+            "price": "280"
+        }
+    ]
+}
